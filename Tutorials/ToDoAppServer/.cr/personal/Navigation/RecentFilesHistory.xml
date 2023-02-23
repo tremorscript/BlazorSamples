@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Type="DevExpress.CodeRush.Foundation.Navigation.QuickFileNav.SolutionFileInfosContainer">
+  <Options Language="Neutral">
+    <Items>
+      <Item Id="{0195f591-878a-495c-94fe-a4ced05dc1ba}">
+        <Filename>Todo.razor</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\tutorials\todoappserver\todoappserver\pages\todo.razor</FilePath>
+        <Folders>
+          <Item>Pages</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\Tutorials\ToDoAppServer\ToDoAppServer\ToDoAppServer.csproj</ProjectFileName>
+        <ProjectName>ToDoAppServer</ProjectName>
+      </Item>
+      <Item Id="{f478a62a-c09e-408b-b734-33a4e17c0644}">
+        <Filename>NavMenu.razor</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\tutorials\todoappserver\todoappserver\shared\navmenu.razor</FilePath>
+        <Folders>
+          <Item>Shared</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\Tutorials\ToDoAppServer\ToDoAppServer\ToDoAppServer.csproj</ProjectFileName>
+        <ProjectName>ToDoAppServer</ProjectName>
+      </Item>
+    </Items>
+  </Options>
+</Root>
