@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Type="DevExpress.CodeRush.Foundation.Navigation.QuickFileNav.SolutionFileInfosContainer">
+  <Options Language="Neutral">
+    <Items>
+      <Item Id="{4c9b1812-100c-413a-aefc-ea5a0ca83e07}">
+        <Filename>NavMenu.razor</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\tutorials\todoappwasm\todoappwasm\shared\navmenu.razor</FilePath>
+        <Folders>
+          <Item>Shared</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\Tutorials\ToDoAppWasm\ToDoAppWasm\ToDoAppWasm.csproj</ProjectFileName>
+        <ProjectName>ToDoAppWasm</ProjectName>
+      </Item>
+    </Items>
+  </Options>
+</Root>

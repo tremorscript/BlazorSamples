@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Type="DevExpress.CodeRush.Foundation.Navigation.QuickFileNav.SolutionFileInfosContainer">
+  <Options Language="Neutral">
+    <Items>
+      <Item Id="{2f3ede3a-0b22-4d8e-b484-e643a6028c33}">
+        <Filename>PizzaStoreContext.cs</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\learnmodule\blazingpizzasite\blazingpizzasite\data\pizzastorecontext.cs</FilePath>
+        <Folders>
+          <Item>Data</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\LearnModule\BlazingPizzaSite\BlazingPizzaSite\BlazingPizzaSite.csproj</ProjectFileName>
+        <ProjectName>BlazingPizzaSite</ProjectName>
+      </Item>
+      <Item Id="{2f01e68b-f6cf-497a-9747-7cd0c3fe9fe6}">
+        <Filename>Checkout.razor</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\learnmodule\blazingpizzasite\blazingpizzasite\pages\checkout.razor</FilePath>
+        <Folders>
+          <Item>Pages</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\LearnModule\BlazingPizzaSite\BlazingPizzaSite\BlazingPizzaSite.csproj</ProjectFileName>
+        <ProjectName>BlazingPizzaSite</ProjectName>
+      </Item>
+      <Item Id="{8db9775d-6143-4095-995d-34f007d9fe65}">
+        <Filename>Index.razor</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\learnmodule\blazingpizzasite\blazingpizzasite\pages\index.razor</FilePath>
+        <Folders>
+          <Item>Pages</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\LearnModule\BlazingPizzaSite\BlazingPizzaSite\BlazingPizzaSite.csproj</ProjectFileName>
+        <ProjectName>BlazingPizzaSite</ProjectName>
+      </Item>
+      <Item Id="{30dd2f85-9465-4aa3-b840-51e0fa10e72f}">
+        <Filename>ConfigurePizzaDialog.razor</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\learnmodule\blazingpizzasite\blazingpizzasite\shared\configurepizzadialog.razor</FilePath>
+        <Folders>
+          <Item>Shared</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\LearnModule\BlazingPizzaSite\BlazingPizzaSite\BlazingPizzaSite.csproj</ProjectFileName>
+        <ProjectName>BlazingPizzaSite</ProjectName>
+      </Item>
+      <Item Id="{a0ff6bd9-1620-4c14-b1a4-38bf1f42b6b5}">
+        <Filename>OrderState.cs</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\learnmodule\blazingpizzasite\blazingpizzasite\services\orderstate.cs</FilePath>
+        <Folders>
+          <Item>Services</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\LearnModule\BlazingPizzaSite\BlazingPizzaSite\BlazingPizzaSite.csproj</ProjectFileName>
+        <ProjectName>BlazingPizzaSite</ProjectName>
+      </Item>
+      <Item Id="{18ac973f-b1f0-4506-a4c8-f978a46973c1}">
+        <Filename>_Imports.razor</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\learnmodule\blazingpizzasite\blazingpizzasite\_imports.razor</FilePath>
+        <Folders />
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\LearnModule\BlazingPizzaSite\BlazingPizzaSite\BlazingPizzaSite.csproj</ProjectFileName>
+        <ProjectName>BlazingPizzaSite</ProjectName>
+      </Item>
+      <Item Id="{388c5193-d775-4d93-b35d-5092ba40a47a}">
+        <Filename>Program.cs</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\learnmodule\blazingpizzasite\blazingpizzasite\program.cs</FilePath>
+        <Folders />
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\LearnModule\BlazingPizzaSite\BlazingPizzaSite\BlazingPizzaSite.csproj</ProjectFileName>
+        <ProjectName>BlazingPizzaSite</ProjectName>
+      </Item>
+      <Item Id="{bb5644e2-7f72-4781-b824-e9e912266fa1}">
+        <Filename>Index.razor</Filename>
+        <FilePath>d:\source\repos\tremorscript\blazorsamples\learnmodule\blazingpizzasite\blazingpizzasite\pages\index.razor</FilePath>
+        <Folders>
+          <Item>Pages</Item>
+        </Folders>
+        <ProjectFileName>D:\source\repos\tremorscript\BlazorSamples\LearnModule\BlazingPizzaSite\BlazingPizzaSite\BlazingPizzaSite.csproj</ProjectFileName>
+        <ProjectName>BlazingPizzaSite</ProjectName>
+      </Item>
+    </Items>
+  </Options>
+</Root>
