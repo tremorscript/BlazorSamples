@@ -16,5 +16,6 @@ public class Order
 
     public decimal GetTotalPrice() => Pizzas.Sum(p => p.GetTotalPrice());
 
-    public string GetFormattedTotalPrice() => GetTotalPrice().ToString("0.00", CultureInfo.InvariantCulture);
+    public string GetFormattedTotalPrice() =>
+        GetTotalPrice().ToString("0.00", CultureInfo.InvariantCulture);
 }

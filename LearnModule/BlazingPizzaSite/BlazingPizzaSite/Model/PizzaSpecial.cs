@@ -17,5 +17,6 @@ public class PizzaSpecial
 
     public string ImageUrl { get; set; }
 
-    public string GetFormattedBasePrice() => BasePrice.ToString("0.00", CultureInfo.InvariantCulture);
+    public string GetFormattedBasePrice() =>
+        BasePrice.ToString("0.00", CultureInfo.InvariantCulture);
 }

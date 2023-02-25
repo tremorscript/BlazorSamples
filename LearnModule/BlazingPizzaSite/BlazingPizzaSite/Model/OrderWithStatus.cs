@@ -24,13 +24,10 @@ public class OrderWithStatus
         }
         else
         {
-            statusText = DateTime.Now < dispatchTime + DeliveryDuration ? "Out for delivery" : "Delivered";
+            statusText =
+                DateTime.Now < dispatchTime + DeliveryDuration ? "Out for delivery" : "Delivered";
         }
 
-        return new OrderWithStatus
-        {
-            Order = order,
-            StatusText = statusText,
-        };
+        return new OrderWithStatus { Order = order, StatusText = statusText, };
     }
 }

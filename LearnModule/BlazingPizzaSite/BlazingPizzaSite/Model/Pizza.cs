@@ -30,5 +30,6 @@ public class Pizza
 
     public decimal GetTotalPrice() => GetBasePrice();
 
-    public string GetFormattedTotalPrice() => GetTotalPrice().ToString("0.00", CultureInfo.CurrentCulture);
+    public string GetFormattedTotalPrice() =>
+        GetTotalPrice().ToString("0.00", CultureInfo.CurrentCulture);
 }
